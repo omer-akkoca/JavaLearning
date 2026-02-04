@@ -1,7 +1,8 @@
 package com.javalearning;
 
 public class Arrays {
-    public static  void  main(String[] args){
+    public static void main(String[] args){}
+    public static  void  arrays(){
         String[] myStringArray = new String[3];
         myStringArray[0] = "Ömer";
         myStringArray[1] = "Şevki";

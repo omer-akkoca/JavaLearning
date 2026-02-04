@@ -1,7 +1,7 @@
 package com.javalearning;
 
 public class Variables {
-    public  static  void main(String[] args){
+    public static  void variables(){
         System.out.println("This is a test string");
         int x = 2;
         int y = 9;
