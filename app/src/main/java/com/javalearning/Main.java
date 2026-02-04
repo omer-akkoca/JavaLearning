@@ -14,5 +14,7 @@ public class Main {
         Set.set();;
         System.out.println("----------");
         Map.map();
+        System.out.println("----------");
+        Statements.statements();
     }
 }
