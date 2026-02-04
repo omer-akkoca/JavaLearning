@@ -6,8 +6,13 @@ public class Main {
         System.out.println("Main Class");
         System.out.println("----------");
         Variables.variables();
+        System.out.println("----------");
         Arrays.arrays();
+        System.out.println("----------");
         Lists.lists();
+        System.out.println("----------");
         Set.set();;
+        System.out.println("----------");
+        Map.map();
     }
 }
