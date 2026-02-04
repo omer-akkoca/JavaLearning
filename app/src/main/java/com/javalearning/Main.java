@@ -7,5 +7,6 @@ public class Main {
         System.out.println("----------");
         Variables.variables();
         Arrays.arrays();
+        Lists.lists();
     }
 }
