@@ -8,5 +8,6 @@ public class Main {
         Variables.variables();
         Arrays.arrays();
         Lists.lists();
+        Set.set();;
     }
 }
