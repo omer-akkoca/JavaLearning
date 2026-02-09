@@ -16,5 +16,7 @@ public class Main {
         Map.map();
         System.out.println("----------");
         Statements.statements();
+        System.out.println("----------");
+        Loops.loops();
     }
 }
