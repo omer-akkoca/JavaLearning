@@ -1,5 +1,7 @@
 package com.javalearning;
 
+import com.javalearning.Classes.Classes;
+
 public class Main {
     public static  void main(String[] args){
         System.out.println("----------");
@@ -18,5 +20,8 @@ public class Main {
         Statements.statements();
         System.out.println("----------");
         Loops.loops();
+        System.out.println("----------");
+        Classes.createPlater("Ömer", "Akkoca", 63);
+        Classes.createPlater("İbrahim", "Ceylan", 65);
     }
 }
